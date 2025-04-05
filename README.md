@@ -4,7 +4,6 @@
     <a href="https://github.com/apktool/apktool/graphs/contributors"><img src="https://img.shields.io/github/contributors/apktool/apktool?color=blue"></a>
     <a href="https://github.com/apktool"><img src="https://img.shields.io/github/stars/apktool"></a>
     <a href="https://github.com/apktool/apktool/network/members"><img src="https://img.shields.io/github/forks/apktool/apktool?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=apktool.apktool" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
@@ -16,10 +15,17 @@
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java)&nbsp;\
 ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
 ![Flask](https://img.shields.io/badge/-FastAPI-555?style=flat&logo=FastAPI)&nbsp;
+![Go-Zero](https://img.shields.io/badge/-GoZero-555?style=flat&logo=GoZero)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-555?style=flat&logo=SpringBoot)&nbsp;\
+![Hadoop](https://img.shields.io/badge/-Hadoop-555?style=flat&logo=Hadoop)&nbsp;
+![HBase](https://img.shields.io/badge/-HBase-555?style=flat&logo=HBase)&nbsp;
+![Hive](https://img.shields.io/badge/-Hive-555?style=flat&logo=Hive)&nbsp;
+![Flink](https://img.shields.io/badge/-Flink-555?style=flat&logo=Flink)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-555?style=flat&logo=Spark)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
