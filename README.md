@@ -8,7 +8,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>大家好，我是 apktool, 爱吃不甜的草莓味云朵，喜欢在彩虹尽头荡秋千。日常活动是收集泡泡里的神秘光片，偶尔也去月球背面跟影子玩捉迷藏。梦想是骑着会飞的拖鞋环游宇宙，在星星上种五彩斑斓的音符。别看我这样，说不定哪天就能和你在异次元世界一起数蚂蚁跳舞呢 。</b>\
 
 ## 🛠️ Tech Stack:
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
