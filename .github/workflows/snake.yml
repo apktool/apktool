@@ -10,6 +10,9 @@ on:
   workflow_dispatch:
   push:
 
+permissions:
+  contents: write
+
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
