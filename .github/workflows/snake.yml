@@ -10,8 +10,6 @@ on:
   workflow_dispatch:
   push:
 
-permissions:
-  contents: write
 
 # The sequence of runs in this workflow:
 jobs:
@@ -30,7 +28,7 @@ jobs:
       - uses: Platane/snk@v3.3.0
         id: snake-svg
         with:
-          github_user_name: apktool
+          github_user_name: ${{ github.repository_owner }}
           # these next 3 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
