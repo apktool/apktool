@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://github.com/apktool/apktool"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="https://github.com/apktool/apktool/graphs/contributors"><img src="https://img.shields.io/github/contributors/apktool/apktool?color=blue"></a>
     <a href="https://github.com/apktool"><img src="https://img.shields.io/github/stars/apktool"></a>
     <a href="https://github.com/apktool/apktool/network/members"><img src="https://img.shields.io/github/forks/apktool/apktool?color=blue&logo=github"></a>
